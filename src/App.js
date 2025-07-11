@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import chap03 from './chap03/jsx-test-06'
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer"ㅁ
         >
           Learn React
         </a>
